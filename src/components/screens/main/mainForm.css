@@ -1,0 +1,63 @@
+.main_form {
+    background-image: url(https://reliable-bus.ru/wp-content/uploads/2022/09/001.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+
+/* Form */
+.mainForm-from {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 100%;
+    padding: 20px 10px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.mainForm-block {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.mainForm__block {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    width: 100%;
+}
+
+.mainForm-select {
+    width: 100%;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: #444343;
+}
+
+.mainForm-label {
+    color: #7d7c7c;
+    font-size: 16px;
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+    background-color: #cdc7c7;
+}
+
+/* calendar */
+.calendar {
+    width: 100%;
+    border: none;
+    height: 50px;
+    outline: none;
+    font-size: 20px;
+}

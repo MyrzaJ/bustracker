@@ -1,0 +1,26 @@
+.header_section {
+    background-color: #F6F7F8;
+    width: 100%;
+}
+
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-main {
+    background-color: #D23B38;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 130px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.header_text {
+    font-size: 18px;
+    color: #fff;
+}

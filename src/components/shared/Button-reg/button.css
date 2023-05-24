@@ -1,0 +1,12 @@
+.buttons_shared {
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.buttons_shared:hover {
+    opacity: 0.8;
+}

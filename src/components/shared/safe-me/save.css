@@ -1,0 +1,11 @@
+.checked {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.checked-text {
+    font-size: 14px;
+    color: #565454;
+    margin-left: 5px;
+}
